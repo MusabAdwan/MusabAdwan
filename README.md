@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m an AI and ML resarcher with a Master degree Anartificial Intelligence  
+- 🔭 I’m an AI and ML resarcher with a Master degree in Aartificial Intelligence  
 - 👯 I’m looking to collaborate on ML projects
 
