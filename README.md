@@ -7,4 +7,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m an AI and ML resarcher with a Master degree in Aartificial Intelligence  
 - 👯 I’m looking to collaborate on ML projects
+- I am intreseted in AI, ML, Deep Learning, Computer Vision, Natural Language Processing, and Data Science.
 
